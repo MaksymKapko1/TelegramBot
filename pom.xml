@@ -17,9 +17,11 @@
     <modules>
         <module>dispatcher</module>
         <module>common-rabbitmq</module>
+        <module>node</module>
     </modules>
     <properties>
         <java.version>11</java.version>
+        <telegram.bot.starter.version>6.1.0</telegram.bot.starter.version>
     </properties>
 
     <dependencies>
